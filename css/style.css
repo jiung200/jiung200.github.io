@@ -1,3 +1,9 @@
 .hidden {
     display: none;
 }
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
